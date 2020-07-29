@@ -6,7 +6,7 @@
 
 The features:
 - You can control your analog blinds or windowopeners.
-- The control is not a simple binary open/close: **it support percentages**. You can open your blinds at 50% or 65% for instance.
+- The control is not a simple binary open/close: **it supports percentages**. You can open your blinds at 50% or 65% for instance.
 - Blinds can still be operated with buttons, if arduinocode supports it.
 
 ### Who is it for?
