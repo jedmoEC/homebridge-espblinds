@@ -8,7 +8,7 @@
 ## 2] Homebridge plugin installation
 
 ````bash
-sudo npm install -g homebridge-mysmartblinds
+sudo npm install -g homebridge-espblinds
 ````
 
 ## 3] Homebridge accessory configuration
